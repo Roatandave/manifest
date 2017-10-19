@@ -70,7 +70,7 @@ repo sync
 ```
 ### Special terminal properties
 ```
-echo "ndk.dir=/ndk/android-ndk-r13b/" > packages/apps/Terminal/local.properties
+echo "ndk.dir=/ndk/android-ndk-r15c/" > packages/apps/Terminal/local.properties
 ```
 ### Make the ROM
 ```
